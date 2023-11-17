@@ -1,5 +1,13 @@
-# Getting Started with Create React App
+# A simple chess game in React using typescript.
 
+## Implemented so far.
+1) Create a a chessboard component with alternating colored boxes.
+2) Added chess peices in their orginal orientation.
+
+## To review.
+CSS specificity, Arrow Functions and Passing as Props.
+
+---------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

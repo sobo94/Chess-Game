@@ -1,0 +1,22 @@
+.Tile{
+    width: 100px;
+    height: 100px;
+    display: grid;
+    place-content: center;
+}
+
+.Color-A {
+
+    background-color: bisque;
+    border: 1px solid black;
+}
+
+.Color-B {
+
+    background-color: whitesmoke;
+    border: 1px solid black;
+}
+
+.tile img {
+    width: 100px;
+}
