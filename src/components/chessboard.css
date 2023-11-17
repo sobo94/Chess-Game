@@ -1,0 +1,21 @@
+#Chessboard {
+    display: grid;
+    grid-template-columns: repeat(8,100px);
+    width: 801px;
+    height: 801px;
+    background-color: grey;
+}
+
+#Chessboard .Tile-A {
+    width: 100px;
+    height: 100px;
+    background-color: bisque;
+    border: 1px solid black;
+}
+
+#Chessboard .Tile-B {
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border: 1px solid black;
+}
